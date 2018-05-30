@@ -1,0 +1,33 @@
+body{
+    background-color: black
+}
+
+#aPicture{
+    height: 775px;
+    width: 1500px;
+    z-index: 0;
+    position: relative;
+}
+
+
+#aFinger{
+    height: 776px;
+    width: 1501px;
+    margin-top: -1500px;
+    margin-bottom: 18.5px;
+    margin-left: -1.5px;
+    z-index: 3;
+    position: relative;
+}
+.wallPic{
+margin-top:180px;
+    position: absolute;
+    z-index: 2;
+    margin-left: 167px;
+    max-height: 200px;
+    max-width: 200px;
+}
+.phonePic{
+    z-index: 3;
+}
+ 
